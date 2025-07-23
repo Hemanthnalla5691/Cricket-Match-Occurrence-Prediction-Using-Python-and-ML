@@ -1,0 +1,5 @@
+Python 3
+pandas              # For loading and processing the dataset
+numpy               # For numerical operations
+scikit-learn        # For Random Forest model and evaluation
+gradio              # For creating the interactive prediction UI
